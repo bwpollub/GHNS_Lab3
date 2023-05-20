@@ -1,2 +1,3 @@
-# GHNS_Lab3
-zajecia 8.00
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
